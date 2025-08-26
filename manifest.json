@@ -1,0 +1,8 @@
+{
+  "name": "ThermalPrinter",
+  "type": "extension",
+  "version": 1,
+  "description": "Extension Thermal Printer Bluetooth (Text, PNG, QRCode)",
+  "author": "Your Name",
+  "category": "Connectivity"
+}
